@@ -1,2 +1,2 @@
 # pluralsight-js-dev-env
-JS dev env coursec
+JS dev env course  
